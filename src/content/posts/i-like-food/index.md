@@ -1,10 +1,10 @@
 ---
 title: 'I Like Food'
 excerpt: 'I have not become someone who treats food as fuel - I just started noticing that finishing a plate and being hungry are two different questions.'
-category: "Journey"
-date: '2025-01-20' # TODO: replace with real date from ChatGPT export
+category: "Mindset & Willpower"
+date: '2026-06-21'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

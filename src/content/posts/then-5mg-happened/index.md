@@ -1,10 +1,10 @@
 ---
 title: 'Then 5mg Happened'
 excerpt: 'What the dose increase to 5mg did to my digestive system, and why I dropped back to 2.5mg.'
-category: "Journey"
-date: '2025-02-17' # TODO: replace with real date from ChatGPT export
+category: "Side Effects & Dosing"
+date: '2026-08-02'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

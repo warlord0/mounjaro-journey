@@ -1,10 +1,10 @@
 ---
 title: 'The BBQ Lunch'
 excerpt: 'Stopping halfway through a halloumi wrap and fries, and losing interest in finishing it just because I paid for it.'
-category: "Journey"
-date: '2025-02-05' # TODO: replace with real date from ChatGPT export
+category: "Food & Meals"
+date: '2026-09-02'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

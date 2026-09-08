@@ -1,10 +1,10 @@
 ---
 title: 'The £50 Rack-of-Lamb Experiment'
 excerpt: 'A restaurant meal where being full finally won the argument against finishing the plate.'
-category: "Journey"
-date: '2025-02-03' # TODO: replace with real date from ChatGPT export
+category: "Food & Meals"
+date: '2026-08-22'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

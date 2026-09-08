@@ -1,10 +1,10 @@
 ---
 title: "Recognising the Battle Doesn't Mean Winning It"
 excerpt: "Mounjaro changed the physical side of eating. It didn't install willpower - it just showed me how much of it I'd been using all along."
-category: "Journey"
-date: '2025-01-30' # TODO: replace with real date from ChatGPT export
+category: "Mindset & Willpower"
+date: '2026-07-26'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

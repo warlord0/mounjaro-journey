@@ -1,10 +1,10 @@
 ---
 title: 'Two Roast Potatoes'
 excerpt: 'A ridiculous but genuine example of wanting food and choosing not to eat it anyway.'
-category: "Journey"
-date: '2025-02-04' # TODO: replace with real date from ChatGPT export
+category: "Food & Meals"
+date: '2026-08-09'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

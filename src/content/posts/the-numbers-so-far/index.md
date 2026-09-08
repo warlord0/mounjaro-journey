@@ -1,10 +1,10 @@
 ---
 title: 'The Numbers So Far'
 excerpt: 'Starting weight, current weight, and why I''m still not chasing a target.'
-category: "Journey"
-date: '2025-03-03' # TODO: replace with real date from ChatGPT export, and turn this into a proper dated timeline once the export is in
+category: "Progress & Numbers"
+date: '2026-09-01'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

@@ -1,12 +1,12 @@
 export const siteConfig = {
   /** Wordmark shown in the header and footer. Monograph uses text, never a logo image. */
-  name: "Mounjaro Journey",
+  name: "My Mounjaro Journey",
   tagline: "Notes from a Mounjaro journey",
-  title: "Mounjaro Journey",
+  title: "My Mounjaro Journey",
   description:
     "A personal account of Mounjaro (tirzepatide), weight loss, appetite, side effects, and discovering that knowing why I eat doesn't necessarily make it easy to stop.",
   siteUrl: "https://example.com", // TODO: replace with the real domain once you have one
-  authorName: "TODO: your name",
+  authorName: "Paul",
   email: "",
   language: "en",
   dateLocale: "en-GB",

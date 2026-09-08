@@ -1,10 +1,10 @@
 ---
 title: 'I''m Learning, Not Cured'
 excerpt: 'What Mounjaro has and hasn''t done for my relationship with food, and why the biggest change isn''t the number on the scales.'
-category: "Journey"
-date: '2025-03-17' # TODO: replace with real date from ChatGPT export
+category: "Mindset & Willpower"
+date: '2026-09-04'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

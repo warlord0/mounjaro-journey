@@ -1,10 +1,10 @@
 ---
 title: 'The Sunday Dinner Problem'
 excerpt: 'My wife pointed out I go for the good stuff first at Sunday dinner - which makes leaving food behind now a much harder argument than it sounds.'
-category: "Journey"
-date: '2025-02-10' # TODO: replace with real date from ChatGPT export
+category: "Mindset & Willpower"
+date: '2026-08-30'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

@@ -1,10 +1,10 @@
 ---
 title: 'Physical Hunger and Mental Hunger'
 excerpt: 'Mounjaro made physical hunger quieter, but my brain never got the memo.'
-category: "Journey"
-date: '2025-01-25' # TODO: replace with real date from ChatGPT export
+category: "Mindset & Willpower"
+date: '2026-07-18'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false
@@ -16,7 +16,7 @@ I can go surprisingly long periods without eating.
 
 One day I had cornflakes at around 10am and didn't eat again until about 7:30pm.
 
-Previously, I'd have expected to be absolutely ravenous.
+Previously, I'd have expected to be absolutely ravenous. I would probably have got home from work and searched for a snack or two to tide me over before dinner.
 
 Instead, I simply wasn't particularly hungry.
 

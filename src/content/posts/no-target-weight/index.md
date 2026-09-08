@@ -1,10 +1,10 @@
 ---
 title: "I Didn't Start With a Target Weight"
 excerpt: "Why I never set myself a number to hit on Mounjaro, and what I actually want instead."
-category: "Journey"
-date: '2025-01-06' # TODO: replace with real date from ChatGPT export
+category: "Mindset & Willpower"
+date: '2026-06-05'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: true
 draft: false

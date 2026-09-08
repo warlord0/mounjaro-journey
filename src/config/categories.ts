@@ -7,7 +7,12 @@
  * Order matters: it is the order used on the categories index and in the home
  * sidebar.
  */
-export const categories = ["Journey"] as const;
+export const categories = [
+  "Mindset & Willpower",
+  "Food & Meals",
+  "Side Effects & Dosing",
+  "Progress & Numbers",
+] as const;
 
 export type Category = (typeof categories)[number];
 
@@ -21,5 +26,12 @@ export const categorySlug = (category: string) =>
 
 /** One line per category, shown on its archive page and in listings. */
 export const categoryDescriptions: Record<Category, string> = {
-  Journey: "Notes from the Mounjaro journey — appetite, side effects, and what's actually changing.",
+  "Mindset & Willpower":
+    "The psychology of appetite — recognising the difference between hunger and wanting, and what's still a fight.",
+  "Food & Meals":
+    "Specific meals, moments, and the small decisions about what gets left on the plate.",
+  "Side Effects & Dosing":
+    "What the medication itself does to the body, dose changes, and how that's been managed.",
+  "Progress & Numbers":
+    "Weight, measurements, and other ways of tracking what's actually changing.",
 };

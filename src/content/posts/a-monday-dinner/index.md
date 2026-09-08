@@ -1,10 +1,10 @@
 ---
 title: 'A Monday Dinner'
 excerpt: 'Not finishing the beans - a trivial-sounding moment that was actually the old instinct losing an argument.'
-category: "Journey"
-date: '2025-02-06' # TODO: replace with real date from ChatGPT export
+category: "Food & Meals"
+date: '2026-09-07'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false

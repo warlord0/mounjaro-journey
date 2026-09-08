@@ -1,10 +1,10 @@
 ---
 title: 'The Backpack Test'
 excerpt: 'A more visceral way of feeling the weight I''ve lost than a number on the scales: it''s now more than the backpack I cycle to work with.'
-category: "Journey"
-date: '2025-03-10' # TODO: replace with real date from ChatGPT export
+category: "Progress & Numbers"
+date: '2026-08-15'
 author:
-  name: "TODO: your name"
+  name: "Paul"
   role: "Author"
 featured: false
 draft: false
