@@ -5,7 +5,7 @@ export const siteConfig = {
   title: "My Mounjaro Journey",
   description:
     "A personal account of Mounjaro (tirzepatide), weight loss, appetite, side effects, and discovering that knowing why I eat doesn't necessarily make it easy to stop.",
-  siteUrl: "https://example.com", // TODO: replace with the real domain once you have one
+  siteUrl: "https://mounjaro-journey.whalesanctuary.co.uk",
   authorName: "Paul",
   email: "",
   language: "en",
