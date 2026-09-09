@@ -48,50 +48,6 @@ That is a much harder argument than simply leaving something you weren't particu
 
 ---
 
-## I've always eaten the food
-
-I was reminded just how deep this relationship with food went when I had COVID.
-
-I lost my sense of taste.
-
-Sunday dinner became an absolutely miserable experience.
-
-I could feel the texture.
-
-I could tell what I was eating.
-
-But there was no taste.
-
-No flavour.
-
-No pleasure.
-
-Just texture and, as I remember it, the occasional appearance of what I can only describe as **red floaty juice**.
-
-It was fucking miserable.
-
-And yet I still ate the whole dinner.
-
-That memory is important to me now because it demonstrates something I didn't properly understand at the time.
-
-I wasn't eating because the food was particularly enjoyable.
-
-I wasn't eating because I was hungry.
-
-I was eating because **that was what I did**.
-
-The meal was there.
-
-It was dinner.
-
-And dinner got eaten.
-
-Even when COVID had taken away the thing that made eating enjoyable in the first place, I still couldn't seem to leave it.
-
-That was my relationship with food.
-
----
-
 ## Which makes stopping now quite strange
 
 That's why something as ridiculous as leaving two roast potatoes behind can feel like a bigger deal than it sounds.
