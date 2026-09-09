@@ -16,7 +16,7 @@ I didn't realise that was even a thing.
 
 I'd always assumed a dog's diet started and ended with meat. Vegetables felt like something you'd have to trick a dog into eating, not something they'd actively enjoy.
 
-But they happily eat broccoli, carrots and cabbage.
+But they happily eat broccoli, carrots and red cabbage.
 
 Rosie particularly likes apples.
 
@@ -30,7 +30,11 @@ We've had two Rottweilers before Rosie and Dexter. Both of them called Roxy.
 
 Neither of them would touch raw food.
 
-The first Roxy wouldn't even trust it cooked. Put a bowl down in front of her, and she'd pick a piece up, drop it, and give it a hard, suspicious stare, like she thought you'd tried to poison her. I once tried her on chicken livers. Raw, she wouldn't go near them. Cooked, she'd still inspect every single one before she'd commit. But what never failed to amaze me was Roxy's ability to each a Sunday lunch, meat, potatoes, gravy, and peas... but when she was finished there were only peas left in the bowl, clean of gravy. How she had the dexterity to separate them from the rest was a mystery.
+The first Roxy was almost exclusively wet tinned food, rarely kibble, but chicken she loved.
+
+What was funny was the way she took food from humans. People giving her a treat, even her favourite chicken, she'd take it, drop it, and give it a hard, suspicious stare, like she thought you'd tried to poison her, before she'd decide to eat it.
+
+I once tried her on chicken livers. Raw, she wouldn't go near them. Cooked, she'd devour them - they do smell good when cooking, despite looking disgusting. But what never failed to amaze me was Roxy's ability to eat a Sunday lunch, meat, potatoes, gravy, veggies, and peas... but when she was finished there were only peas left in the bowl, clean of gravy. How she had the dexterity to separate them from the rest was a mystery.
 
 The second Roxy — Roxy too, similarly, wouldn't touch anything raw. But once it was cooked, there was no inspection process at all.
 
