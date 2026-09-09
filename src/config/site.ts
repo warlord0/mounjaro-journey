@@ -1,11 +1,11 @@
 export const siteConfig = {
   /** Wordmark shown in the header and footer. Monograph uses text, never a logo image. */
-  name: "My Mounjaro Journey",
+  name: "Thirty Clicks",
   tagline: "Notes from a Mounjaro journey",
-  title: "My Mounjaro Journey",
+  title: "Thirty Clicks",
   description:
     "A personal account of Mounjaro (tirzepatide), weight loss, appetite, side effects, and discovering that knowing why I eat doesn't necessarily make it easy to stop.",
-  siteUrl: "https://mounjaro-journey.whalesanctuary.co.uk",
+  siteUrl: "https://thirty-clicks.whalesanctuary.co.uk",
   authorName: "Paul",
   email: "",
   language: "en",
