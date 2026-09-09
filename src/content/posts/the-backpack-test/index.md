@@ -3,6 +3,7 @@ title: 'The Backpack Test'
 excerpt: 'A more visceral way of feeling the weight I''ve lost than a number on the scales: it''s now more than the backpack I cycle to work with.'
 category: "Progress & Numbers"
 date: '2026-08-15'
+updatedDate: '2026-09-09'
 author:
   name: "Paul"
   role: "Author"
@@ -15,6 +16,8 @@ There's another way I've started to notice the weight I've lost.
 I cycle to work, and I carry a backpack with me.
 
 It has my laptop, a change of clothes and all the various bits and pieces I need during the day. It's not particularly light.
+
+**Edit:** I finally put it on the scales to check. **8.1 kg.**
 
 One day it occurred to me that I've now lost **more weight from my body than the weight of the backpack I'm carrying**.
 

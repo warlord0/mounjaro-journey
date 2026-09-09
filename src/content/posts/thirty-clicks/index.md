@@ -24,7 +24,7 @@ So that's what I did.
 
 This raised a few interesting questions, and I had a few interesting discussions about it.
 
-A 2.5mg pen costs **£123.97**. A 5mg pen costs **£163.97**. A box of 100 Injetipen needles is **£20**.
+A 2.5mg pen costs **£123.97**. A 5mg pen costs **£163.97**. A box of 100 universal pen needles is **£20**.
 
 Used exactly as intended — one pen, four weeks, full clicks every time — that works out per week as:
 
