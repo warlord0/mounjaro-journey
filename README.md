@@ -1,63 +1,42 @@
-# Astro Starter Kit: Blog
+# My Mounjaro Journey
 
-```sh
-npm create astro@latest -- --template blog
-```
+Personal blog documenting a Mounjaro (tirzepatide) weight-loss journey — appetite, side effects, dosing, and the ongoing argument with food. Built with [Astro](https://astro.build) using the [Monograph](https://github.com/xocothemes/monograph) theme and Tailwind CSS v4.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Live at [mounjaro-journey.whalesanctuary.co.uk](https://mounjaro-journey.whalesanctuary.co.uk).
 
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
+## Project structure
 
 ```text
-├── public/
+├── public/               static assets (favicon, fonts, og-image)
 ├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+│   ├── components/       Astro components (header, footer, post card, search, mdx)
+│   ├── config/           site config, categories, code-block themes
+│   ├── content/
+│   │   └── posts/        blog posts, one folder per post (index.md)
+│   ├── layouts/
+│   ├── lib/               post-related helper functions
+│   └── pages/
 ├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+├── wrangler.jsonc         Cloudflare Pages config
+└── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Posts live in `src/content/posts/<slug>/index.md`, each with frontmatter for `title`, `excerpt`, `category`, `date`, and `author`. See `src/content.config.ts` for the full schema and `src/config/categories.ts` for the category list.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Commands
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+| Command           | Action                                       |
+| :----------------- | :-------------------------------------------- |
+| `npm install`       | Install dependencies                          |
+| `npm run dev`       | Start local dev server at `localhost:4321`    |
+| `npm run build`     | Build the production site to `./dist/`        |
+| `npm run preview`   | Preview the build locally before deploying    |
+| `npm run check`     | Type-check the project                        |
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Deployment
 
-## 🧞 Commands
+Deploys to Cloudflare Pages, either automatically on push to `main` (once Git integration is connected in the Cloudflare dashboard) or manually with:
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+```sh
+npx wrangler pages deploy dist --project-name=mounjaro-journey
+```
