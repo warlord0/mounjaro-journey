@@ -26,7 +26,10 @@ const {
 
 const canonical = new URL(Astro.url.pathname, siteConfig.siteUrl).toString();
 const absoluteImage = new URL(image, siteConfig.siteUrl).toString();
-const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.name}`;
+const pageTitle =
+  title === siteConfig.title
+    ? `${siteConfig.name} — ${siteConfig.tagline}`
+    : `${title} | ${siteConfig.name}`;
 const defaultStructuredData = {
   "@context": "https://schema.org",
   "@type": "WebSite",
