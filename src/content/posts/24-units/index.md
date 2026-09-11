@@ -10,9 +10,11 @@ featured: false
 draft: false
 ---
 
-Today's number is 95.3 kg.
+Today's number is 95.3 kg. Fifteen stone, near enough.
 
 That's pretty decent. It's not diving down some steep decline, but it is moving, or at least maintaining a direction of travel. I'll take steady over pretending every day has to set a new low.
+
+It does put my BMI right back at 30, though. I crossed below that line a few days ago and apparently it's not a one-way door. That's fine. It's a number, not a verdict.
 
 ---
 
