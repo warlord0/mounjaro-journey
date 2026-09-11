@@ -46,13 +46,11 @@ Maybe there isn't one.
 
 ## What I actually want
 
-I want to walk downstairs in the morning without being out of breath.
-
-I want to climb those six flights of stairs at work without needing to wring the sweat out of the shirt I put on ten minutes earlier.
-
 I want ordinary physical activities to feel ordinary.
 
 I want to be able to move around without constantly being reminded that I'm carrying more weight than my body really wants to carry.
+
+I've noticed it most on stairs. Not just the breathlessness. Going up and down used to put a real dig into my knees, both ways — climbing and coming back down. That's eased off too, and I only really registered it once it stopped.
 
 If that happens at a particular weight, great.
 
