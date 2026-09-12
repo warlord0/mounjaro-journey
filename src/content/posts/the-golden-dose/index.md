@@ -1,6 +1,6 @@
 ---
 title: 'The Golden Dose'
-excerpt: "There's medication left in the pen after the fourth injection. The interesting question isn't whether that's still medication - it obviously is. It's what happens if you try to save it up."
+excerpt: "The pen ships with more than four doses' worth in it by design. What's actually left over after the fourth injection, what the manufacturer's own guidance says about it, and what it means in milligrams if you use it anyway."
 category: "Side Effects & Dosing"
 date: '2026-09-12'
 author:
@@ -10,54 +10,46 @@ featured: false
 draft: false
 ---
 
-The KwikPen is built to give you four doses. Fill it, use it once a week, and by the fourth injection it's meant to be done.
+The pen comes pre-filled with enough for four doses. Use it once a week, and by the fourth injection it's meant to be finished.
 
 Except it isn't, quite.
 
-There's a bit left. People call it the golden dose.
+There's a bit left over. People call it the golden dose.
 
 ---
 
-I went and checked the actual product literature rather than just going on what I'd heard. It defines the dose per 0.6 mL and says the pen holds four of them. Then it adds one line:
+It's not a mistake. The pen is deliberately overfilled from the manufacturer, so that four accurate 0.6 mL doses can actually be delivered once you account for the small amount lost when it is primed. The leftover is whatever's left of that overfill once the priming loss has been taken out.
+
+How much that comes to isn't a fixed number. Some people report barely anything worth bothering with. Others describe drawing it out with a U-40 insulin syringe — 1 mL capacity — and filling it, or close to it. The manufacturer doesn't give a figure either, because it genuinely can't: however much survives to the end depends on how much was lost priming that specific pen, and that varies from one to the next.
+
+Lilly has apparently changed the hardware over this. Newer batches of the pen are meant to leave noticeably less behind — which is a fairly clear admission that the leftover existed, and mattered enough to actually redesign for.
+
+I don't think that closes the gap completely, though. A pen like this delivers a dose by pushing a plunger through the cartridge. However well they've engineered it, that plunger still has to have some fluid ahead of it right up to the last dose, or the mechanism runs dry and starts pushing air instead of medication on injection four. You can shrink the margin. I don't see how you get it to genuinely nothing without risking the pen failing to deliver properly on its final click. So even on the redesigned pens, there's probably still something there. Just less of it.
+
+---
+
+Once it's actually in a syringe, though, you do know what you've got. That's what the markings on the barrel are for. Draw up 0.3 mL, it tells you it's 0.3 mL. Draw up a full 1 mL, it tells you that too.
+
+What you're measuring is volume. Turning that into an amount of actual medication depends on which pen you're using. A 2.5 mg pen delivers 2.5 mg in its 0.6 mL dose, which works out at roughly 4.17 mg per mL. Draw a full 1 mL of leftover from that pen, at that concentration, and you're looking at somewhere around 4.17 mg — well past the 2.5 mg you're actually prescribed, from a single extra injection.
+
+That's the number that actually matters. Not whether the leftover is "real medication" — it obviously is. It's how many milligrams you'd be adding, and whether that has any relationship to what you're supposed to be taking.
+
+---
+
+The manufacturer's own instruction on this is one line:
 
 > Any excess solution in the pen after use should be discarded.
 
-That's a usage instruction. It's not a claim that the leftover has become chemically different, contaminated, or unsafe. It's the manufacturer telling you how the pen is meant to be used, which isn't the same thing as telling you what's wrong with the bit left over.
+That's a disposal instruction, not a description of the leftover having gone off or turned dangerous. It's Lilly saying the pen is validated for four doses and nothing else, and that anything beyond that falls outside what they've tested and are willing to stand behind. It isn't a claim that the residual has changed into something unsafe.
 
-I think that distinction gets lost a lot. "Not validated for this" and "actively dangerous" get treated as the same sentence, and they're not.
+Which leaves a fairly obvious gap between what's officially sanctioned and what some people actually go on to do with it.
 
----
-
-So is it safe to draw it out and use it?
-
-I'm not going to pretend I know for certain either way, and I'd be suspicious of anyone who tells you confidently that it definitely is or definitely isn't. But here's what I can say with a straight face:
-
-The concentration is defined per 0.6 mL. It doesn't mysteriously change because the pen's dial has clicked round to four. If you trust a calibrated syringe to measure a dose at all, the fact that this particular 0.2 mL came out through a new puncture of the septum rather than the pen's own mechanism doesn't, on its own, make the measurement inaccurate.
-
-And the sterility argument, on its own, doesn't hold up either. Four injections accessing a sealed cartridge don't create a switch that flips from sterile to contaminated exactly on dose four. What actually changes is that you're now doing something outside the manufacturer's validated method, using a new sterile needle and syringe to take medication out rather than have the pen deliver it. That's a real distinction. It's just a narrower one than "don't touch it, it's gone off."
-
-So: golden dose, used straight away, from a pen that's just finished its fourth injection — I don't see an honest argument that it's suddenly a different substance.
+Using a new sterile needle and syringe, on a pen only you've ever accessed, to draw out and inject something chemically identical to the four doses you've already had that month — that's not obviously the same category of risk as "unknown substance, don't touch it." But it is a step the manufacturer hasn't validated, hasn't measured for accuracy, and won't stand behind if it goes wrong. "Discard the excess" isn't scaremongering. It's them drawing a line around exactly what they'll vouch for.
 
 ---
 
-Where it actually gets interesting is if you don't use it straight away.
+So the honest version isn't "golden dose: dangerous" or "golden dose: free extra Mounjaro."
 
-Say you're not throwing the leftover 0.2 mL away. You're saving it, because three of those add up to a full 0.6 mL dose, and Mounjaro is not cheap.
+It's less exciting than either of those: it's real medication, at a volume nobody can predict in advance, that the manufacturer has explicitly told you to throw away — not because they've identified something specifically wrong with it, but because it sits outside the four doses they've actually validated the pen to deliver.
 
-That sounds sensible until you look at the maths.
-
-Pen one finishes, you save its 0.2 mL. Pen two finishes roughly four weeks later, you save that one too. Pen three finishes around eight weeks after pen one. Now you've got your 0.6 mL — except the first portion has been sitting in a used pen, outside its original packaging, for close to two months.
-
-That's not the same question as "is the golden dose okay." That's "is medication that's been drawn from a used pen and kept for weeks still okay," which is a much harder thing to wave away.
-
-The product information gives an in-use limit of 30 days after a pen is first used. Four weekly doses land you comfortably inside that. A golden dose collected across three separate pens, on the other hand, can push the oldest portion well past it — not because day 31 is some cliff edge, but because the manufacturer's own guidance on how long the thing is good for once first used stops applying somewhere around there.
-
----
-
-So I don't think the honest headline is "golden dose: dangerous" or "golden dose: free extra Mounjaro."
-
-It's narrower than both of those, and less satisfying: there's no obvious reason a fresh golden dose, used promptly, is a fundamentally different substance to the four before it. But turning it into a running collection — a few months' worth of leftovers, gradually stockpiled into one dose — stops being about whether 0.2 mL is real medication and starts being about how long it's reasonable to trust something that's been sitting in an already-used pen.
-
-The golden dose probably isn't the problem.
-
-The golden-dose savings account might be.
+What anyone does with that gap is a decision. Not a technicality.
