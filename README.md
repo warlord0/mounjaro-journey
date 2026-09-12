@@ -1,8 +1,8 @@
-# My Mounjaro Journey
+# Thirty Clicks
 
 Personal blog documenting a Mounjaro (tirzepatide) weight-loss journey — appetite, side effects, dosing, and the ongoing argument with food. Built with [Astro](https://astro.build) using the [Monograph](https://github.com/xocothemes/monograph) theme and Tailwind CSS v4.
 
-Live at [mounjaro-journey.whalesanctuary.co.uk](https://mounjaro-journey.whalesanctuary.co.uk).
+Live at [thirty-clicks.whalesanctuary.co.uk](https://thirty-clicks.whalesanctuary.co.uk).
 
 ## Project structure
 
@@ -25,13 +25,13 @@ Posts live in `src/content/posts/<slug>/index.md`, each with frontmatter for `ti
 
 ## Commands
 
-| Command           | Action                                       |
-| :----------------- | :-------------------------------------------- |
-| `npm install`       | Install dependencies                          |
-| `npm run dev`       | Start local dev server at `localhost:4321`    |
-| `npm run build`     | Build the production site to `./dist/`        |
-| `npm run preview`   | Preview the build locally before deploying    |
-| `npm run check`     | Type-check the project                        |
+| Command           | Action                                     |
+| :---------------- | :----------------------------------------- |
+| `npm install`     | Install dependencies                       |
+| `npm run dev`     | Start local dev server at `localhost:4321` |
+| `npm run build`   | Build the production site to `./dist/`     |
+| `npm run preview` | Preview the build locally before deploying |
+| `npm run check`   | Type-check the project                     |
 
 ## Deployment
 
