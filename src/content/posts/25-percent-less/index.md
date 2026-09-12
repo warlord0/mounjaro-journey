@@ -28,7 +28,7 @@ Second glass, same as the first. And that's usually where I'd stop. Two, done, f
 
 Instead, I was disappointed it had ended so quickly.
 
-That's the bit worth being honest about. On full measures, two is enough. On half measures, my brain apparently doesn't measure satisfaction in millilitres. It measures it in number of glasses, and two smaller ones didn't feel like the same evening as two normal ones.
+That's the bit worth being honest about. On full measures, two is enough. On half measures, my brain apparently does measure it in millilitres, not in number of glasses, because two smaller ones simply didn't add up to the same total. It kept nudging me toward a third to close the gap.
 
 So I had a third.
 
