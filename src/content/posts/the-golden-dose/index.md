@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 The KwikPen is built to give you four doses. Fill it, use it once a week, and by the fourth injection it's meant to be done.
