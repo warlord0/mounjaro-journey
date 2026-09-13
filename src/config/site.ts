@@ -20,7 +20,8 @@ export const siteConfig = {
 
 /** Header navigation. Add or remove entries freely; the header renders them in order. */
 export const navigation = [
-  { label: "Archive", href: "/posts/" },
+  { label: "Posts", href: "/posts/" },
+  { label: "Archives", href: "/archives/" },
   { label: "Categories", href: "/categories/" },
   { label: "About", href: "/about/" },
 ];
