@@ -15,7 +15,17 @@ export const authorSlug = (author: string) =>
 
 export const categoryHref = (category: string) => `/category/${categorySlug(category)}/`;
 
-export const postSlug = (post: Post) => post.id.replace(/\/index$/, "");
+/**
+ * The URL slug is always just the folder that directly holds `index.md`,
+ * regardless of how many organisational parent folders (e.g. `2026/09/`)
+ * sit above it in `src/content/posts/`. That keeps `/post/<slug>/` URLs
+ * stable even if posts get moved around on disk later.
+ */
+export const postSlug = (post: Post) => {
+  const segments = post.id.split("/").filter(Boolean);
+  if (segments.at(-1) === "index") segments.pop();
+  return segments.at(-1) ?? post.id;
+};
 
 export const postHref = (post: Post) => `/post/${postSlug(post)}/`;
 
