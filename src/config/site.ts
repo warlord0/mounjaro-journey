@@ -11,7 +11,10 @@ export const siteConfig = {
   language: "en",
   dateLocale: "en-GB",
   locale: "en_GB",
-  socialImage: "/og-image.png",
+  // Cache-busted: Facebook's scraper caches the image itself by URL and
+  // can ignore "Scrape Again" for a while. Bump this query string (not the
+  // filename) any time og-image.png changes, to force a fresh fetch.
+  socialImage: "/og-image.png?v=2",
   /** Shown in the home sidebar "About" card. */
   about:
     "A personal, honest account of my Mounjaro (tirzepatide) journey — the appetite, the side effects, and discovering that knowing why I eat doesn't necessarily make it easy to stop.",
