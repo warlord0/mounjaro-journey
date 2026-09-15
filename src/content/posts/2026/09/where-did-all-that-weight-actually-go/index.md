@@ -1,6 +1,6 @@
 ---
 title: 'Every Breath You Take'
-excerpt: "I've lost twelve kilos. It didn't leave the way you'd assume - and the actual answer is stranger and more obvious than pissing, shitting, or sweating it out."
+excerpt: "I've lost ten kilos. It didn't leave the way you'd assume - and the actual answer is stranger and more obvious than pissing, shitting, or sweating it out."
 category: "Progress & Numbers"
 date: '2026-09-18'
 author:
@@ -10,7 +10,7 @@ featured: false
 draft: true
 ---
 
-I've lost about twelve kilos.
+I've lost about ten kilos.
 
 So where the fuck did it actually go?
 
@@ -34,9 +34,9 @@ And the split isn't close. For roughly every 10 kg of fat your body actually met
 
 Fat plus oxygen becomes carbon dioxide, water, and energy. That's genuinely most of the equation.
 
-Scale that up to my twelve kilos and something like 10 kg of it left as carbon dioxide, breathed out one lungful at a time. The other two kilos or so left as water.
+That's more or less my exact situation. Of my ten kilos, something like 8.4 kg of it left as carbon dioxide, breathed out one lungful at a time. The other 1.6 kg or so left as water.
 
-The biggest exit route for twelve kilos of me wasn't the toilet. It was breathing.
+The biggest exit route for ten kilos of me wasn't the toilet. It was breathing.
 
 ---
 
