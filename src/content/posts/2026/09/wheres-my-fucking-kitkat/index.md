@@ -1,6 +1,6 @@
 ---
-title: "Where's My Fucking KitKat?"
-excerpt: "Ten kilos down, eating less, making better choices - and somehow still negotiating with a chocolate bar. Losing weight and learning how to reward yourself turn out to be two different problems."
+title: "I Deserve a Fucking KitKat"
+excerpt: "It's not really about eating the thing. It's about deciding I deserve it, and then seeing how long I can leave it sitting on the desk while I get on with a day's work."
 category: "Mindset & Willpower"
 date: '2026-09-17'
 author:
@@ -10,42 +10,34 @@ featured: false
 draft: true
 ---
 
-I've lost ten kilos.
+The KitKat is still on my desk.
 
-I'm eating less. I'm making better choices, most days.
-
-I've eaten ten Malted Milks this week and not one bar of chocolate.
-
-And somehow I still feel like I'm negotiating with a fucking KitKat.
+Five days now, if I've counted right. Same one from the doughnut evening. It hasn't moved, and neither have I, not in the way that matters.
 
 ---
 
-That doesn't add up on paper. Ten biscuits isn't nothing. If this were simply about calories or willpower, the numbers would probably tell a much simpler story.
+I keep expecting the feeling to be about hunger. It isn't. It's not even really about wanting to eat a KitKat specifically.
 
-But it isn't really about any of that. It's about a deal I didn't know I'd made with myself until Mounjaro started interfering with it.
+It's closer to: I deserve a fucking KitKat.
 
-Do something difficult. Deserve food. Feel rewarded.
+I've done a full day's work. Sat here, done the difficult bits, answered the emails I didn't want to answer, and somewhere in my head that adds up to a debt owed. Not by anyone in particular. Just a general sense that effort should be followed by something, and the something has always, for as long as I can remember, been food.
 
-I've been running on that contract for years. Long day at work, deserve something. Stressful week, deserve something. Even an ordinary Tuesday apparently deserved something, most of the time.
-
-Mounjaro has changed the physical side of that completely. The hunger that used to demand the reward doesn't show up the way it used to. Nobody mentioned that the contract itself would still be sitting there, waiting to be honoured, long after the appetite that used to enforce it had gone quiet.
+Mounjaro didn't touch that feeling. It just took away the hunger that used to arrive alongside it, so now the feeling turns up on its own, with nothing underneath it.
 
 ---
 
-Which is presumably why the Malted Milks aren't cutting it.
+Somewhere along the way, this stopped being a straightforward battle and turned into something closer to a game.
 
-They're food. They're perfectly nice. I can eat several without much of a fight. But they don't feel like the reward. They feel like something I'm allowed, which isn't the same thing at all.
+I sit at my desk all day, working, and the KitKat sits there too. I'm not white-knuckling it the whole time — most of the day I genuinely forget it's there. But every so often I'll look up, see it, and there's a specific little moment where I think: right, how much longer.
 
-The KitKat was never really about chocolate versus biscuits. It's what the KitKat represents that the Malted Milks don't: permission. A proper treat. The full transaction, not a discount version of it.
-
-So I keep circling back to it, whether I'm actually hungry or not, because some part of me is still waiting to be paid.
+Not "will I eat it." More like watching how long I can leave it there while I get on with everything else. It's turned into its own small experiment, running quietly in the background of an ordinary working day.
 
 ---
 
-I've lost ten kilos. That's real, and it's not nothing.
+I don't think that's a healthier relationship with food. I think it might just be a more interesting one.
 
-But losing the weight and learning how to reward myself turn out to be two completely different problems, and I've only really made progress on one of them.
+I still feel like I deserve it. That hasn't gone anywhere. What's changed is that "I deserve it" and "I'm going to eat it" have come slightly unstuck from each other, and most days now there's just enough of a gap between the two to notice it happening.
 
 I'm learning. Not cured.
 
-Apparently that applies here too.
+The KitKat's still there to prove it.
