@@ -2,12 +2,12 @@
 title: 'Days Since Last KitKat'
 excerpt: "A workplace safety sign for the only hazard that actually threatens this operation."
 category: "Mindset & Willpower"
-date: '2026-09-15'
+date: '2026-09-19'
 author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: false
+draft: true
 ---
 
 **DAYS SINCE LAST KITKAT**
