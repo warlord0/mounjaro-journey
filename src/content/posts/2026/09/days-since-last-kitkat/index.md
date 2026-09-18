@@ -12,7 +12,7 @@ draft: false
 
 **DAYS SINCE LAST KITKAT**
 
-# 14
+# 18
 
 **INJURIES:** 0
 
@@ -42,6 +42,6 @@ And somehow, two separate two-finger bars is worse than one four-finger bar, eve
 
 ---
 
-Fourteen days is genuinely fine as a number. I'm not pretending otherwise.
+Eighteen days is genuinely fine as a number. I'm not pretending otherwise.
 
 But the sign isn't up because the number's impressive. It's up because a workplace only puts a sign like this next to the thing that could actually still go wrong.
