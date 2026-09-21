@@ -30,13 +30,17 @@ None of that shows up in the mirror.
 
 ---
 
-It made me think of The Matrix.
+It made me think of *The Matrix*.
 
-In the film, Neo's "residual self image" is the mental projection of himself that carries on looking the way he expects to look, whatever the reality around him has done. It's the version of you that lives in your head, and your head hasn't been told anything's changed.
+In the film, Neo's "residual self-image" is the mental projection of himself that carries on looking the way he expects to look, whatever the reality around him has done.
+
+It's the version of you that lives in your head, and your head hasn't been told anything's changed.
 
 That's what I keep wondering. Am I just seeing myself the way I expect to see myself?
 
-I've spent years looking at the same body. My brain has had a very long time to settle on what Paul looks like. Losing weight doesn't replace that overnight with a new photograph. And you don't really notice what has changed. You notice what hasn't changed enough yet, and for me that's the belly. So that's what I look at, and the mirror agrees with the picture I already had.
+I've spent years looking at the same body. My brain has had a very long time to settle on what Paul looks like. Losing weight doesn't replace that overnight with a new photograph.
+
+And you don't really notice what has changed. You notice what hasn't changed enough yet, and for me that's the belly. So that's what I look at, and the mirror agrees with the picture I already had.
 
 ---
 
@@ -44,8 +48,10 @@ So my eyes say I look much the same.
 
 My socks say there's no more trench.
 
-My knees say a bit quieter, please don't make a fuss about it.
+My knees say, *a bit quieter, please don't make a fuss about it.*
 
 My jeans have already given up.
 
-I'm not sure I have to decide whether I look any different. The trousers have made that call for me. Maybe the mirror is just the last thing to get the memo.
+I'm not sure I have to decide whether I look any different. The trousers have made that call for me.
+
+Maybe the mirror is just the last thing to get the memo.
