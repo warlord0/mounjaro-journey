@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 The wife and I took the dogs to Doggy Disney, which is our pet name for Brandon Wood.
