@@ -4,7 +4,7 @@ import PostCard from "@/components/PostCard.astro";
 import SiteFooter from "@/components/SiteFooter.astro";
 import SiteHeader from "@/components/SiteHeader.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import { siteConfig } from "@/config/site";
+import { lastKitKatDate, siteConfig } from "@/config/site";
 import { categoryHref, getCategoryList, getFeatured, visiblePosts } from "@/lib/posts";
 
 const allPosts = visiblePosts(await getCollection("posts"));
@@ -77,9 +77,41 @@ const hasMore = rest.length > feed.length;
               </ul>
             </section>
           )}
+
+          <section aria-labelledby="kitkat-heading">
+            <h2 id="kitkat-heading" class="section-title">Days Since Last KitKat</h2>
+            <p
+              class="text-center text-5xl font-bold tracking-tight text-accent"
+              data-kitkat-counter
+              data-last-eaten={lastKitKatDate}
+            >
+              &nbsp;
+            </p>
+          </section>
         </aside>
       </div>
     </div>
   </main>
   <SiteFooter />
+
+  <script>
+    /*
+     * Computed on the visitor's own clock so the number keeps climbing
+     * day to day without needing a rebuild. Whole calendar days only,
+     * not a rolling 24-hour count.
+     */
+    document.querySelectorAll("[data-kitkat-counter]").forEach((el) => {
+      const lastEaten = el.getAttribute("data-last-eaten");
+      if (!lastEaten) return;
+
+      const [year, month, day] = lastEaten.split("-").map(Number);
+      const last = Date.UTC(year, month - 1, day);
+
+      const now = new Date();
+      const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+
+      const days = Math.round((today - last) / 86_400_000);
+      el.textContent = String(Math.max(days, 0));
+    });
+  </script>
 </BaseLayout>

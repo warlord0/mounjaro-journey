@@ -21,6 +21,14 @@ export const siteConfig = {
   socials: [{ label: "RSS", href: "/rss.xml" }],
 };
 
+/**
+ * Date of the last KitKat, in YYYY-MM-DD. Drives the live "Days Since Last
+ * KitKat" counter in the home sidebar. Update this whenever the streak
+ * resets — the counter recalculates itself from here, no rebuild needed
+ * for the number to keep climbing day to day.
+ */
+export const lastKitKatDate = "2026-09-01";
+
 /** Header navigation. Add or remove entries freely; the header renders them in order. */
 export const navigation = [
   { label: "Posts", href: "/posts/" },
