@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 I've clearly lost weight.
