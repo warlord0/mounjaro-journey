@@ -18,8 +18,8 @@ I thought that was sentiment for a while. Some leftover attachment to stones and
 
 So it's not nostalgia. It's the numbers themselves.
 
-A kilo is 2.2 lb. So a kilo coming off looks like a proper chunk of a number: 96 to 95, a whole digit gone. The same amount of weight in stones and pounds shows up as 2.2 lb, which just doesn't read as much, even though it's exactly the same amount of me.
+A kilo is 2.2 lb. Lose one, and the kg figure ticks down by a clean 1: 96 to 95. Lose exactly the same amount of me, and the pounds figure drops by 2.2, a bigger digit for identical weight loss. If anything, pounds oversell the change and kilos undersell it. Backwards from what I'd have guessed.
 
-And then there's the stone boundary, which plays the opposite trick. 15 st 0 lb to 14 st 13.9 lb is a tenth of a pound. Practically nothing. But the leading number drops from 15 to 14, so it looks like something's actually happened, when almost nothing has.
+Then there's the stone boundary, doing its own version of the same trick. 15 st 0 lb to 14 st 13.9 lb is a tenth of a pound. Practically nothing. But the leading number drops from 15 to 14, so it looks like something's actually happened, when almost nothing has.
 
 The scales haven't changed what they're measuring. The units I'm reading it in have just been quietly lying to me about how big the number is.
