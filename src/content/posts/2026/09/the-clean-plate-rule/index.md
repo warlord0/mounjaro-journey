@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 I'm still only on 2.5mg. I keep half-wondering whether I should be pushing the dose up, and I had to properly think through why I haven't.
