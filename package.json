@@ -12,7 +12,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "indexnow": "node scripts/submit-indexnow.mjs"
   },
   "overrides": {
     "yaml": "^2.8.3"
