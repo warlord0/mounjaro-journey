@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 I was talking to my wife about her Mounjaro experience yesterday. She's been on it a lot longer than me, lost a lot of weight, and is clearly happier for it. But when she described what it actually feels like, it was almost the opposite of mine.
