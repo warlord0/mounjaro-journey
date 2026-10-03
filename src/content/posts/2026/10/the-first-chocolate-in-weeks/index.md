@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 ### The Chocolate Wasn't a Failure
