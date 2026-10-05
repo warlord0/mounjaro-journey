@@ -1,5 +1,5 @@
 ---
-title: 'Front Room, Curtains Closed'
+title: 'Become Slightly Less Shit'
 excerpt: "I want to move better, and the plan is Tai Chi in the front room. The hard part isn't the movements. It's being seen doing something that feels unfamiliar and slightly ridiculous."
 category: "Mindset & Willpower"
 date: '2026-10-10'
