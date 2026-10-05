@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Mounjaro is not a cheap habit. I've made my peace with the injection, the burping, the occasional gut invoice the morning after. I haven't made my peace with the price tag.
