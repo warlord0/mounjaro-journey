@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 When I wrote about the syringe leaving a hard little bubble in my thigh, that was the medication itself, sitting too close to the surface rather than spreading into the fat where it was supposed to go. Shallow injection, not a shallow problem — it dispersed on its own and left nothing but an itch.
