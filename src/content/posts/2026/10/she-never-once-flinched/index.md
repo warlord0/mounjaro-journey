@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 I never thought I'd be someone who injects themselves with medication. Not out of any strong principle. Just, needles aren't a thing I've ever been relaxed about, and "inject yourself, once a week, indefinitely" sounded like a problem for a different, braver kind of person.
