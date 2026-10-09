@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 14 st 5 lb this morning. That's 201 lb, or 91.2 kg, and another small step down from 14 st 6.5 lb.
