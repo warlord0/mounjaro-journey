@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 The kitchen is out. It has a big double patio door, and while I know full well that nobody is going to be looking through it, I still don't want to be doing something faintly absurd while I wave my arms about in front of the washing machine.
