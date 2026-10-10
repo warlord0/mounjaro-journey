@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Tonight's dinner was shepherd's pie from the freezer, with lots of vegetables. I was pleased with that.
