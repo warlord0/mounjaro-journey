@@ -2,12 +2,12 @@
 title: "Apparently, Some People Only Eat When They're Hungry"
 excerpt: "A joke on Mock the Week's 2026 summer special landed harder than it should have, because it described a way of eating I genuinely didn't know existed. Then I noticed I do the opposite too."
 category: "Mindset & Willpower"
-date: '2026-10-15'
+date: '2026-10-13'
 author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 I was watching the 2026 summer special of Mock the Week. Laura Lexx got handed "weight loss drugs" as an improvised topic, and her opening was roughly this: you take the injection, you stop feeling hungry, so you stop eating.

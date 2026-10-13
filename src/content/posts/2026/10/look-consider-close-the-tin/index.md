@@ -2,7 +2,7 @@
 title: 'Look, Consider, Close the Tin'
 excerpt: "I've started wondering if I've forgotten what physical hunger actually feels like. I'm not sure I can answer that one. What I can tell you is what happens when I open the biscuit tin now, and it isn't what used to happen."
 category: "Mindset & Willpower"
-date: '2026-10-17'
+date: '2026-10-15'
 author:
   name: "Paul"
   role: "Author"

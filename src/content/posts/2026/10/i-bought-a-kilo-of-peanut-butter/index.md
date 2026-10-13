@@ -2,7 +2,7 @@
 title: 'I Bought a Kilo of Peanut Butter'
 excerpt: "I thought I'd learned my lesson about buying food in bulk after the 5 kg bag of sugar. Turns out I'd learned the wrong one."
 category: "Food & Meals"
-date: '2026-10-16'
+date: '2026-10-14'
 author:
   name: "Paul"
   role: "Author"

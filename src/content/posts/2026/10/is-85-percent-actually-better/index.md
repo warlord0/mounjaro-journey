@@ -2,7 +2,7 @@
 title: 'Is 85% Actually Better?'
 excerpt: "Two bars of 85% cocoa are sitting in the fridge, and I've started to wonder whether I'm just looking for permission. So I checked what the actual evidence says, and it's less flattering to my argument than I'd hoped."
 category: "Food & Meals"
-date: '2026-10-14'
+date: '2026-10-16'
 author:
   name: "Paul"
   role: "Author"
