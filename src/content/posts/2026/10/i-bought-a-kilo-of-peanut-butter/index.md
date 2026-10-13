@@ -14,7 +14,7 @@ The cupboard was empty of peanut butter, so I went online to sort it out.
 
 It had to be Pip & Nut, crunchy. No palm oil in it, which matters to me, and I'm not buying a brand that can't be bothered to leave it out.
 
-Six 300 g jars for £14, or a 1 kg tub for £7. I did the maths. Six jars is 1.8 kg for £14. A kilo for £7 is nearly as much peanut butter for half the money. Why would I spend £14 today when £7 gets me most of the way there?
+Six 300 g jars for £14, or a 1 kg tub for £7. The six jars are actually more peanut butter overall — 1.8 kg against 1 kg — but that wasn't really the comparison I was making. The comparison was simpler than that: £14 on peanut butter, in one go, is too much. Not today, not any day. That's just an absurd amount of money to commit to a condiment.
 
 So I ordered the kilo. Felt rather pleased with myself about it, too.
 
@@ -30,7 +30,7 @@ I've bought myself a peanut butter boulder, and I genuinely don't know where it'
 
 ---
 
-This is the sugar bag, again. Same logic exactly: the bigger size is cheaper per kilo, so buying it is obviously the sensible move. What I keep forgetting is that cheaper per kilo isn't the same as sensible, if the thing you've bought doesn't actually fit anywhere in the house.
+This is the sugar bag, again. Same logic exactly: I talked myself out of the sensible option because of the price on the label, and ended up with the one thing in the house that doesn't fit anywhere. Avoiding £14 got me a kilo tub instead, in exactly the same way avoiding whatever a normal bag of sugar cost got me 5 kg of the stuff. What I keep forgetting is that dodging one kind of excess doesn't stop you walking straight into another.
 
 I don't think I'm going to eat more peanut butter because there's more of it sitting in the cupboard. That's not really the risk here. The risk is purely logistical. I've acquired an object, and the house now has to accommodate it.
 
