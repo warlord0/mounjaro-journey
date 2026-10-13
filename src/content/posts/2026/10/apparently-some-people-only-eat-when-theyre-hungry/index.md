@@ -2,7 +2,7 @@
 title: "Apparently, Some People Only Eat When They're Hungry"
 excerpt: "A joke on Mock the Week's 2026 summer special landed harder than it should have, because it described a way of eating I genuinely didn't know existed. Then I noticed I do the opposite too."
 category: "Mindset & Willpower"
-date: '2026-10-14'
+date: '2026-10-15'
 author:
   name: "Paul"
   role: "Author"
