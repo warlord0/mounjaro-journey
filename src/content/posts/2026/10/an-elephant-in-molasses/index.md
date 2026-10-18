@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 A few sessions into Tai Chi now, curtains still closed, and I've found a new way to feel bad at something.
