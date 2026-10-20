@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Monday is my commute day. The one day I'm not at my desk in the guest room, smelling whatever's happening in the kitchen from nine in the morning onwards.
