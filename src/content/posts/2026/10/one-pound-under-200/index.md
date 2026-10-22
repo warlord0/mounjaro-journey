@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 14 st 3 lb. Written like that, it barely looks like progress. One pound down from last time, the kind of change that could just be what I had for breakfast.
