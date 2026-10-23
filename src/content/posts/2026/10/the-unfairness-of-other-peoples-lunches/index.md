@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Someone in the office mentioned, quite casually, that they'd had two bottles of wine with dinner the night before. Not a special occasion. Just dinner. They'll admit to drinking through the week too, without much ceremony about it.
