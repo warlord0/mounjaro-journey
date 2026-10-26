@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 14 st 2 lb today. That's 198 lb, one pound down from yesterday's 199, which makes it a bit harder to wave away as a one-off dip. Two days running under 200 now. That's starting to look like a direction, not a bounce.
