@@ -12,7 +12,7 @@ draft: false
 
 Wife out for the evening, so I was fending for myself. Chippy tea it was.
 
-I haven't had chip shop chips in ages. Ordered a small fish and chips, mainly out of habit — a medium would've fed two people, or one of me a few months back. Turns out small was plenty. It was delicious.
+I haven't had chip shop chips in ages. Ordered a small fish and chips, mainly out of habit — a medium would've fed two people, or one of me a few months back. Turns out small was plenty. It was delicious — and Rosie and Dexter each got a sausage out of the arrangement, which I think they considered fair.
 
 ---
 
@@ -22,6 +22,6 @@ Not because I was counting anything or telling myself I shouldn't. I'd enjoyed t
 
 ---
 
-I knew myself well enough not to leave them on the side, though. Cold chips wandering past later would absolutely have reopened negotiations. So they went straight in the kitchen bin — and Rosie and Dexter each got a sausage out of the arrangement, which I think they considered a fair trade.
+I knew myself well enough not to leave them on the side, though. Cold chips wandering past later would absolutely have reopened negotiations. So they went straight in the kitchen bin.
 
 I didn't need to finish the portion to feel like I'd had my money's worth. For someone who'd have cleared that medium portion without a second thought once, that's its own kind of progress.
