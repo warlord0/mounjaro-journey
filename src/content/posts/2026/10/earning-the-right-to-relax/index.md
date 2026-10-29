@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Tonight was a fuck-it evening. Half a four-cheese pizza, a few of those southern-fried chicken nugget dohdads, a bottle of red. I've got a few days off, so I decided I couldn't be bothered negotiating with myself over every mouthful.
