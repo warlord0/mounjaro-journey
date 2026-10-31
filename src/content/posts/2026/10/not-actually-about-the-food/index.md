@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 I think I've hit a meh! period. The weight loss has slowed, there's so much good stuff I've been swerving, and some evenings I just want to surrender to all of it. Pizza, chips, chocolate, the lot. I don't think my willpower's actually going to let me, but the wanting-to is real.
