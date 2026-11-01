@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Thursday I was already craving a bottle of red. Friday's normally a rum or Jack day, but the Merlot was on offer, so Merlot it was.
