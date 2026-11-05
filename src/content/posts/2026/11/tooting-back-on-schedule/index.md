@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 6am, right on schedule, Tuesday doing what Tuesday does. The tooting's back where it belongs, and so is the uncomfortable reminder that Mounjaro hasn't finished with me for the week just because the injection was days ago.

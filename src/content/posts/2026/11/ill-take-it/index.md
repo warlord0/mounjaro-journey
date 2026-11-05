@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 14 st 1 lb today. 197 lb. A new low, past the wobble at 14 st 4 lb and past the 198 lb I was pleased with a couple of weeks ago.
