@@ -7,7 +7,7 @@ author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Had an early medical appointment, which is a strange thing to call the best bit of a great day. Breakfast after: two sausage, two bacon, two eggs, mushrooms, tomatoes, toast. Proper breakfast, none of your poncy avocado nonsense. Then on to the pub for the afternoon — four pints of Guinness.
