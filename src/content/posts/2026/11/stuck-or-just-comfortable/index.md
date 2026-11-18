@@ -2,7 +2,7 @@
 title: '14 St 3 Lb: Stuck or Just Comfortable?'
 excerpt: "The scales have stalled at 14 st 3 lb. I'm planning a week of behaving myself, right up until the birthday weekend, the takeaways, and a few days with Jack and Max staying over. So, realistically, until Friday."
 category: "Mindset & Willpower"
-date: '2026-11-13'
+date: '2026-11-22'
 author:
   name: "Paul"
   role: "Author"

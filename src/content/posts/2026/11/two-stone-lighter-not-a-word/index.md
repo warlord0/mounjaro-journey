@@ -2,12 +2,12 @@
 title: 'Two Stone Lighter, Not a Word'
 excerpt: "A mate joked I hadn't changed a bit. A few months later I turned up two stone lighter. Neither of us said a word about it, and it bothered me more than I expected."
 category: "Mindset & Willpower"
-date: '2026-11-12'
+date: '2026-11-18'
 author:
   name: "Paul"
   role: "Author"
 featured: false
-draft: true
+draft: false
 ---
 
 Met up with some old work colleagues a while back, probably before Mounjaro. One of them joked that I hadn't changed a bit, still the same size. Harmless banter, didn't bother me in the slightest.
