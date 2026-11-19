@@ -2,7 +2,7 @@
 title: "A Better Excuse, Not More Occasions"
 excerpt: "Mounjaro killed the biscuit-and-crisps habit, but not the urge to give the evening something to look forward to. Rum's quietly filled that gap instead — and the festive season isn't giving me more reasons to drink, just better cover."
 category: "Mindset & Willpower"
-date: '2026-12-06'
+date: '2026-12-02'
 author:
   name: "Paul"
   role: "Author"

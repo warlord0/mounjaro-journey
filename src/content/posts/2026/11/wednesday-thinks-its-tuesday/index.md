@@ -2,7 +2,7 @@
 title: 'Wednesday Thinks It''s Tuesday'
 excerpt: "A day late with the jab this week, and my stomach clearly noticed. Wednesday's been behaving like Tuesday ever since — churning, gurgling, and oddly reassuring proof that Mounjaro really is behind it."
 category: "Side Effects & Dosing"
-date: '2026-11-27'
+date: '2026-11-25'
 author:
   name: "Paul"
   role: "Author"

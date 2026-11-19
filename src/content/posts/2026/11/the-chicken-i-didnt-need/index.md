@@ -2,7 +2,7 @@
 title: "The Chicken I Didn't Need"
 excerpt: "An unexpected pub lunch kicked off celebration season early. By evening I wasn't hungry at all, but I ate anyway — because apparently that's still what I do in the evening, hunger or not."
 category: "Mindset & Willpower"
-date: '2026-12-01'
+date: '2026-11-29'
 author:
   name: "Paul"
   role: "Author"
